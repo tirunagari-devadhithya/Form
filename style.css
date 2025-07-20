@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+h1{
+    font-weight: bold;
+    color: black;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+}
